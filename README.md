@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Chet No Khen!
-### 🚀 Professional Full-Stack Developer Aspirant | IT Student
+### 🚀 Professional Full-Stack Developer Aspirant | IT Student at RUPP University,28th generation
 
 <p align="left">
   <a href="https://github.com/NgetMeas22">
@@ -52,7 +52,7 @@
   <a href="https://t.me/khenchet" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@KhenChet" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/iwowpwow?igsh=MTkwZmtxbGRta3Jwdg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 </p>
