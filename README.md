@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/NgetMeas22">
+  <a href="https://github.com/chetkhen">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NgetMeas22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgetMeas22&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
   </a>
